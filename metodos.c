@@ -3,6 +3,7 @@
 #include <math.h>
 
 #define M 16384
+//#define A 0.5
 
 //key == k tam == m
 
